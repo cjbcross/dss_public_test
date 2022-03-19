@@ -2150,14 +2150,14 @@
     "predictionDisplayCharts": [],
     "labels": []
   },
-  "lastTrainIndex": 1,
-  "lastTrainJobId": "",
+  "lastTrainIndex": 2,
+  "lastTrainJobId": "Build_Churn_prediction_model___RANDOM_FOREST__2022-03-19T17-40-15.633",
   "versionTag": {
-    "versionNumber": 8,
+    "versionNumber": 9,
     "lastModifiedBy": {
       "login": "chris.butler"
     },
-    "lastModifiedOn": 1647711625803
+    "lastModifiedOn": 1647711625948
   },
   "tags": [],
   "customFields": {},
