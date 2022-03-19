@@ -3,7 +3,7 @@
   "publishPolicy": "UNCONDITIONAL",
   "rebuildBehavior": "EXPLICIT",
   "name": "Churn prediction model ( RANDOM_FOREST)",
-  "activeVersion": "1647711616716",
+  "activeVersion": "1647711634629",
   "conditionalOutputs": [],
   "partitioning": {
     "ignoreNonMatchingFile": false,
@@ -2153,11 +2153,11 @@
   "lastTrainIndex": 2,
   "lastTrainJobId": "Build_Churn_prediction_model___RANDOM_FOREST__2022-03-19T17-40-15.633",
   "versionTag": {
-    "versionNumber": 9,
+    "versionNumber": 10,
     "lastModifiedBy": {
       "login": "chris.butler"
     },
-    "lastModifiedOn": 1647711625948
+    "lastModifiedOn": 1647711642461
   },
   "tags": [],
   "customFields": {},
