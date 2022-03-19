@@ -22,4 +22,4 @@ pdu.audit(df)
 # -------------------------------------------------------------------------------- NOTEBOOK-CELL: CODE
 # Recipe outputs
 nb_to_recipe_dataset = dataiku.Dataset("nb_to_recipe_dataset")
-nb_to_recipe_dataset.write_with_schema()
+nb_to_recipe_dataset.write_with_schema(df)
