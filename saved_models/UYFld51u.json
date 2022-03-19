@@ -3,7 +3,7 @@
   "publishPolicy": "UNCONDITIONAL",
   "rebuildBehavior": "EXPLICIT",
   "name": "Segments model (KMEANS)",
-  "activeVersion": "1647711501683",
+  "activeVersion": "1647711530278",
   "conditionalOutputs": [],
   "partitioning": {
     "ignoreNonMatchingFile": false,
@@ -313,11 +313,11 @@
   "lastTrainIndex": 2,
   "lastTrainJobId": "Build_Segments_model__KMEANS__2022-03-19T17-38-20.668",
   "versionTag": {
-    "versionNumber": 9,
+    "versionNumber": 10,
     "lastModifiedBy": {
       "login": "chris.butler"
     },
-    "lastModifiedOn": 1647711514315
+    "lastModifiedOn": 1647711540520
   },
   "tags": [],
   "customFields": {},
