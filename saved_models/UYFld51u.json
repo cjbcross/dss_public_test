@@ -310,14 +310,14 @@
     "predictionDisplayCharts": [],
     "labels": []
   },
-  "lastTrainIndex": 2,
-  "lastTrainJobId": "Build_Segments_model__KMEANS__2022-03-19T17-38-20.668",
+  "lastTrainIndex": 3,
+  "lastTrainJobId": "Build_Segments_model__KMEANS__2022-03-19T17-38-49.212",
   "versionTag": {
-    "versionNumber": 10,
+    "versionNumber": 11,
     "lastModifiedBy": {
       "login": "chris.butler"
     },
-    "lastModifiedOn": 1647711540520
+    "lastModifiedOn": 1647711540604
   },
   "tags": [],
   "customFields": {},
