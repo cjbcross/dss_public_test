@@ -213,6 +213,25 @@
             "insightType": "chart",
             "displayMode": "INSIGHT",
             "resizeImageMode": "ORIG_SIZE"
+          },
+          {
+            "tileType": "INSIGHT",
+            "box": {
+              "top": -1,
+              "left": -1,
+              "width": 4,
+              "height": 5
+            },
+            "clickAction": "DO_NOTHING",
+            "tileParams": {
+              "showCode": false
+            },
+            "autoLoad": true,
+            "showTitle": "YES",
+            "insightId": "vrswM3N",
+            "insightType": "jupyter",
+            "displayMode": "INSIGHT",
+            "resizeImageMode": "FIT_SIZE"
           }
         ]
       },
@@ -225,11 +244,11 @@
   "name": "Forecasting Customers that are likely to churn",
   "showGrid": false,
   "versionTag": {
-    "versionNumber": 100,
+    "versionNumber": 101,
     "lastModifiedBy": {
       "login": "chris.butler"
     },
-    "lastModifiedOn": 1647794758476
+    "lastModifiedOn": 1647794847766
   },
   "creationTag": {
     "versionNumber": 0,
