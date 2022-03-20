@@ -1,202 +1,191 @@
 {
-  "checklists": {
-    "checklists": []
-  }, 
-  "creationTag": {
-    "lastModifiedBy": {
-      "login": "admin"
-    }, 
-    "lastModifiedOn": 1486131181561, 
-    "versionNumber": 0
-  }, 
-  "listed": true, 
-  "name": "Segments Analysis", 
-  "owner": "admin", 
   "pages": [
     {
+      "id": "z3jCbn4",
       "grid": {
         "tiles": [
           {
-            "autoLoad": true, 
+            "tileType": "INSIGHT",
             "box": {
-              "height": 3, 
-              "left": 3, 
-              "top": 1, 
-              "width": 3
-            }, 
-            "clickAction": "DO_NOTHING", 
-            "displayMode": "INSIGHT", 
-            "insightId": "ATbZnMM", 
-            "insightType": "chart", 
-            "resizeImageMode": "FIT_SIZE", 
-            "showTitle": "YES", 
+              "top": 1,
+              "left": 3,
+              "width": 3,
+              "height": 3
+            },
+            "clickAction": "DO_NOTHING",
             "tileParams": {
-              "autoPlayAnimation": true, 
-              "showLegend": false, 
-              "showTooltips": true, 
-              "showXAxis": true, 
-              "showYAxis": true
-            }, 
-            "tileType": "INSIGHT", 
-            "title": "Segments / Churn types"
-          }, 
+              "showXAxis": true,
+              "showYAxis": true,
+              "showLegend": false,
+              "showTooltips": true,
+              "autoPlayAnimation": true
+            },
+            "autoLoad": true,
+            "showTitle": "YES",
+            "title": "Segments / Churn types",
+            "insightId": "ATbZnMM",
+            "insightType": "chart",
+            "displayMode": "INSIGHT",
+            "resizeImageMode": "FIT_SIZE"
+          },
           {
-            "autoLoad": true, 
+            "tileType": "INSIGHT",
             "box": {
-              "height": 3, 
-              "left": 0, 
-              "top": 4, 
-              "width": 4
-            }, 
-            "clickAction": "DO_NOTHING", 
-            "displayMode": "INSIGHT", 
-            "insightId": "Y4XjoPB", 
-            "insightType": "chart", 
-            "resizeImageMode": "FIT_SIZE", 
-            "showTitle": "YES", 
+              "top": 4,
+              "left": 0,
+              "width": 4,
+              "height": 3
+            },
+            "clickAction": "DO_NOTHING",
             "tileParams": {
-              "autoPlayAnimation": true, 
-              "showLegend": false, 
-              "showTooltips": true, 
-              "showXAxis": true, 
-              "showYAxis": true
-            }, 
-            "tileType": "INSIGHT", 
-            "title": "Churners / Segments"
-          }, 
+              "showXAxis": true,
+              "showYAxis": true,
+              "showLegend": false,
+              "showTooltips": true,
+              "autoPlayAnimation": true
+            },
+            "autoLoad": true,
+            "showTitle": "YES",
+            "title": "Churners / Segments",
+            "insightId": "Y4XjoPB",
+            "insightType": "chart",
+            "displayMode": "INSIGHT",
+            "resizeImageMode": "FIT_SIZE"
+          },
           {
-            "autoLoad": true, 
+            "tileType": "INSIGHT",
             "box": {
-              "height": 6, 
-              "left": 6, 
-              "top": 1, 
-              "width": 6
-            }, 
-            "clickAction": "DO_NOTHING", 
-            "displayMode": "INSIGHT", 
-            "insightId": "I6ZOmiw", 
-            "insightType": "saved-model_report", 
-            "resizeImageMode": "ORIG_SIZE", 
-            "showTitle": "YES", 
+              "top": 1,
+              "left": 6,
+              "width": 6,
+              "height": 6
+            },
+            "clickAction": "DO_NOTHING",
             "tileParams": {
-              "displayMode": "variables_importance"
-            }, 
-            "tileType": "INSIGHT", 
-            "title": "Variables importance"
-          }, 
+              "displayMode": "variables_importance",
+              "advancedOptions": {}
+            },
+            "autoLoad": true,
+            "showTitle": "YES",
+            "title": "Variables importance",
+            "insightId": "I6ZOmiw",
+            "insightType": "saved-model_report",
+            "displayMode": "INSIGHT",
+            "resizeImageMode": "ORIG_SIZE"
+          },
           {
-            "autoLoad": true, 
+            "tileType": "INSIGHT",
             "box": {
-              "height": 17, 
-              "left": 0, 
-              "top": 7, 
-              "width": 6
-            }, 
-            "clickAction": "DO_NOTHING", 
-            "displayMode": "INSIGHT", 
-            "insightId": "Sc9gehb", 
-            "insightType": "saved-model_report", 
-            "resizeImageMode": "ORIG_SIZE", 
-            "showTitle": "YES", 
+              "top": 7,
+              "left": 0,
+              "width": 6,
+              "height": 17
+            },
+            "clickAction": "DO_NOTHING",
             "tileParams": {
-              "displayMode": "heatmap"
-            }, 
-            "tileType": "INSIGHT", 
-            "title": "Segments Comparison"
-          }, 
+              "displayMode": "heatmap",
+              "advancedOptions": {}
+            },
+            "autoLoad": true,
+            "showTitle": "YES",
+            "title": "Segments Comparison",
+            "insightId": "Sc9gehb",
+            "insightType": "saved-model_report",
+            "displayMode": "INSIGHT",
+            "resizeImageMode": "ORIG_SIZE"
+          },
           {
-            "autoLoad": true, 
+            "tileType": "INSIGHT",
             "box": {
-              "height": 3, 
-              "left": 0, 
-              "top": 1, 
-              "width": 3
-            }, 
-            "clickAction": "OPEN_OTHER_INSIGHT", 
-            "displayMode": "INSIGHT", 
-            "insightId": "0bpKDVm", 
-            "insightType": "chart", 
-            "resizeImageMode": "FIT_SIZE", 
-            "showTitle": "YES", 
-            "targetInsightId": "3qrGaIG", 
+              "top": 1,
+              "left": 0,
+              "width": 3,
+              "height": 3
+            },
+            "clickAction": "OPEN_OTHER_INSIGHT",
+            "targetInsightId": "3qrGaIG",
             "tileParams": {
-              "autoPlayAnimation": true, 
-              "showLegend": true, 
-              "showTooltips": true, 
-              "showXAxis": true, 
-              "showYAxis": true
-            }, 
-            "tileType": "INSIGHT", 
-            "title": "Segments distribution"
-          }, 
+              "showXAxis": true,
+              "showYAxis": true,
+              "showLegend": true,
+              "showTooltips": true,
+              "autoPlayAnimation": true
+            },
+            "autoLoad": true,
+            "showTitle": "YES",
+            "title": "Segments distribution",
+            "insightId": "0bpKDVm",
+            "insightType": "chart",
+            "displayMode": "INSIGHT",
+            "resizeImageMode": "FIT_SIZE"
+          },
           {
-            "autoLoad": true, 
+            "tileType": "TEXT",
             "box": {
-              "height": 1, 
-              "left": 0, 
-              "top": 0, 
-              "width": 12
-            }, 
-            "clickAction": "DO_NOTHING", 
-            "displayMode": "INSIGHT", 
-            "resizeImageMode": "ORIG_SIZE", 
-            "showTitle": "NO", 
+              "top": 0,
+              "left": 0,
+              "width": 12,
+              "height": 1
+            },
+            "clickAction": "DO_NOTHING",
             "tileParams": {
-              "isTransparent": true, 
-              "text": "### Segmentation with K-means clustering model\n\u25bc\u25bc\u25bc\u25bc\u25bc", 
-              "textAlign": "CENTER"
-            }, 
-            "tileType": "TEXT"
-          }, 
+              "text": "### Segmentation with K-means clustering model\n▼▼▼▼▼",
+              "textAlign": "CENTER",
+              "isTransparent": true
+            },
+            "autoLoad": true,
+            "showTitle": "NO",
+            "displayMode": "INSIGHT",
+            "resizeImageMode": "ORIG_SIZE"
+          },
           {
-            "autoLoad": true, 
+            "tileType": "INSIGHT",
             "box": {
-              "height": 21, 
-              "left": 6, 
-              "top": 7, 
-              "width": 6
-            }, 
-            "clickAction": "DO_NOTHING", 
-            "displayMode": "INSIGHT", 
-            "insightId": "3qrGaIG", 
-            "insightType": "saved-model_report", 
-            "resizeImageMode": "ORIG_SIZE", 
-            "showTitle": "YES", 
+              "top": 7,
+              "left": 6,
+              "width": 6,
+              "height": 21
+            },
+            "clickAction": "DO_NOTHING",
             "tileParams": {
-              "displayMode": "cluster-profiling"
-            }, 
-            "tileType": "INSIGHT", 
-            "title": "Segments Comparison"
-          }, 
-          {
-            "autoLoad": true, 
-            "box": {
-              "height": 3, 
-              "left": 4, 
-              "top": 4, 
-              "width": 2
-            }, 
-            "clickAction": "DO_NOTHING", 
-            "displayMode": "IMAGE", 
-            "imageId": "0iJ9Gfz", 
-            "resizeImageMode": "FIT_SIZE", 
-            "showTitle": "MOUSEOVER", 
-            "tileType": "IMAGE"
+              "displayMode": "cluster-profiling",
+              "advancedOptions": {}
+            },
+            "autoLoad": true,
+            "showTitle": "YES",
+            "title": "Segments Comparison",
+            "insightId": "3qrGaIG",
+            "insightType": "saved-model_report",
+            "displayMode": "INSIGHT",
+            "resizeImageMode": "ORIG_SIZE"
           }
         ]
-      }, 
-      "id": "z3jCbn4", 
-      "showTitle": false, 
-      "title": "Segments analysis"
+      },
+      "title": "Segments analysis",
+      "showTitle": false
     }
-  ], 
-  "showGrid": true, 
-  "tags": [], 
+  ],
+  "owner": "admin",
+  "listed": true,
+  "name": "Segments Analysis",
+  "showGrid": true,
   "versionTag": {
+    "versionNumber": 48,
+    "lastModifiedBy": {
+      "login": "chris.butler"
+    },
+    "lastModifiedOn": 1647794775080
+  },
+  "creationTag": {
+    "versionNumber": 0,
     "lastModifiedBy": {
       "login": "admin"
-    }, 
-    "lastModifiedOn": 1511271706800, 
-    "versionNumber": 47
+    },
+    "lastModifiedOn": 1486131181561
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
   }
 }
