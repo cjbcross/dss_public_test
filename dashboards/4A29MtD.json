@@ -217,8 +217,8 @@
           {
             "tileType": "INSIGHT",
             "box": {
-              "top": -1,
-              "left": -1,
+              "top": 20,
+              "left": 4,
               "width": 4,
               "height": 5
             },
@@ -244,11 +244,11 @@
   "name": "Forecasting Customers that are likely to churn",
   "showGrid": false,
   "versionTag": {
-    "versionNumber": 101,
+    "versionNumber": 102,
     "lastModifiedBy": {
       "login": "chris.butler"
     },
-    "lastModifiedOn": 1647794847766
+    "lastModifiedOn": 1647794848626
   },
   "creationTag": {
     "versionNumber": 0,
